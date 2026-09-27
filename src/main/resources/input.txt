@@ -1,0 +1,5 @@
+name=Thiruvalluvan
+role=Java Developer
+experience=Fresher
+skills=Java,Spring Boot,React,SQL
+location=Tamil Nadu
